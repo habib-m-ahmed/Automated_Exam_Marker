@@ -1,0 +1,2 @@
+# Automated_Exam_Marker
+The 'Automated Exam Marker' is a program which reads a text file that consists of multiple students answers to an exam. It checks those answers and marks their exams accordingly with the answer key. At the end, it provides an analysis of the data with information such as: The highest/lowest mark, the class average, and how many students answered each specific question correctly. 
